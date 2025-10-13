@@ -1,16 +1,21 @@
-## Hi there 👋
+# Привет — я Вадим 👋
+Frontend / Full-stack разработчик. Люблю React, TypeScript и чистый код.
 
-<!--
-**Atayrell/Atayrell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Сейчас
+Работаю над проектом X, изучаю .NET и улучшаю навыки оптимизации рендеринга.
 
-Here are some ideas to get you started:
+## ⭐ Портфолио (пин-репо сверху)
+- [project-one](https://github.com/your-username/project-one) — SPA на React + TypeScript. Кратко: TODO...
+- [project-two](https://github.com/your-username/project-two) — REST API на .NET + простая админка.
+- [mini-utility](https://github.com/your-username/mini-utility) — утилита для...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Стек
+TypeScript • React • Redux • SASS • Tailwind • Node • .NET
+
+## 📫 Контакты
+Email: your@mail.com  
+Telegram: @yourhandle  
+LinkedIn: linkedin.com/in/your
+
+## 📄 Резюме
+[Скачать CV](link-to-cv-or-repo)
