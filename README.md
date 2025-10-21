@@ -3,8 +3,7 @@
 > Full-Stack Developer specializing in modern web technologies with a focus on React, Redux, and enterprise-grade applications
 🎯 _Building performant, maintainable web apps that balance UX and architecture._
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://atayrell.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://linkedin.com/in/yourprofile](https://linkedin.com/in/vadim-vorotintsev-148174390))
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:vorotincevvadim@gmail.com)
 
 ## 📚 Table of Contents
