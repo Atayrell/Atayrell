@@ -194,8 +194,8 @@ I'm always open to interesting projects and collaborations!
 -   **Email:** [vorotincevvadim@gmail.com](mailto:vorotincevvadim@gmail.com)
 -   **GitHub:** [@Atayrell](https://github.com/Atayrell)
 -   **Portfolio:** [atayrell.github.io](https://atayrell.github.io)
--   **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/vadim-vorotintsev-148174390)
--   **Telegram:** [@yourusername](https://t.me/VaDlMuch)
+-   **LinkedIn:** [Vadim Vorotintsev](https://linkedin.com/in/vadim-vorotintsev-148174390)
+-   **Telegram:** [@VaDlMuch](https://t.me/VaDlMuch)
 
 ## 💡 Fun Facts
 
