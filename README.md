@@ -1,10 +1,21 @@
 # Hi there, I'm Vadim 👋
 
 > Full-Stack Developer specializing in modern web technologies with a focus on React, Redux, and enterprise-grade applications
+🎯 _Building performant, maintainable web apps that balance UX and architecture._
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://atayrell.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:vorotincevvadim@gmail.com)
+
+## 📚 Table of Contents
+
+-   [About Me](#-about-me)
+-   [Featured Projects](#-featured-projects)
+-   [Technical Skills](#-technical-skills-breakdown)
+-   [Code Quality](#-code-quality--best-practices)
+-   [GitHub Stats](#-github-stats)
+-   [Continuous Learning](#-continuous-learning)
+-   [Connect](#-lets-connect)
 
 ## 👨‍💻 About Me
 
@@ -174,9 +185,11 @@ const handleFilterClick = () => {
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atayrell&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atayrell&layout=compact&theme=dark)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Atayrell&show_icons=true&theme=dark&count_private=true" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atayrell&layout=compact&theme=dark" />
+</p>
 
 ## 🎓 Continuous Learning
 
