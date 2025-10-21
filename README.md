@@ -58,7 +58,7 @@ A comprehensive full-stack HR management system for educational institutions fea
 -   Successfully migrated from Context API to Redux Toolkit without breaking functionality
 -   Implemented sophisticated nested data sanitization for complex API submissions
 -   Built reusable table components with per-cell edit state tracking
--   Documented coding standards for team consistency ([CODING_STANDARDS.md](https://github.com/Atayrell/nuft-laravel-react/blob/main/react/CODING_STANDARDS.md))
+-   Documented coding standards for team consistency ([CODING_STANDARDS.md](https://gist.github.com/Atayrell/effcf87722aefffe818b216cfeab328e#file-coding_standards-md))
 
 ---
 
