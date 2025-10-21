@@ -36,7 +36,7 @@ My approach combines clean code principles, modern design patterns, and a strong
 
 ## 🚀 Featured Projects
 
-### 1. [NUFT HR Management System](https://github.com/Atayrell/nuft-laravel-react/README.md)
+### 1. [NUFT HR Management System](https://gist.github.com/Atayrell/8f7e91d7e0927a421f9516a431d86a1e#file-readme_nuft_hr_management_system-md)
 
 **Enterprise HR Platform** | React + Redux Toolkit + .NET API
 
@@ -62,7 +62,7 @@ A comprehensive full-stack HR management system for educational institutions fea
 
 ---
 
-### 2. [Mercury Arts - Digital Agency Portfolio](https://github.com/Atayrell/Astro-mercury/README.md) | [Live Demo](https://Atayrell.github.io/Astro-mercury/)
+### 2. [Mercury Arts - Digital Agency Portfolio](https://gist.github.com/Atayrell/8f7e91d7e0927a421f9516a431d86a1e#file-readme_mercuryarts-md) | [Live Demo](https://Atayrell.github.io/Astro-mercury/)
 
 **Multilingual Marketing Site** | Astro + TailwindCSS + Strapi CMS
 
@@ -88,7 +88,7 @@ A modern, production-ready portfolio website for a digital marketing agency feat
 
 ---
 
-### 3. [Offscreen - Video Production Portfolio](https://github.com/Atayrell/offscreen_react/README.md) | [Live Demo](https://Atayrell.github.io/offscreen_react/)
+### 3. [Offscreen - Video Production Portfolio](https://gist.github.com/Atayrell/8f7e91d7e0927a421f9516a431d86a1e#file-readme_offscreen-md) | [Live Demo](https://Atayrell.github.io/offscreen_react/)
 
 **Interactive Video Platform** | React + Redux Toolkit + Cloudinary
 
