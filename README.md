@@ -1,6 +1,6 @@
 # Hi there, I'm Vadim 👋
 
-> Full-Stack Developer specializing in modern web technologies with a focus on React, Redux, and enterprise-grade applications
+> Front End Developer specializing in modern web technologies with a focus on React, Redux, and enterprise-grade applications
 🎯 _Building performant, maintainable web apps that balance UX and architecture._
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/vadim-vorotintsev-148174390)
@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate full-stack developer with expertise in building scalable, production-ready web applications. I specialize in creating sophisticated frontend architectures with React and Redux Toolkit, while also having solid experience with backend technologies like .NET and Node.js.
+I'm a passionate Front End developer with expertise in building scalable, production-ready web applications. I specialize in creating sophisticated frontend architectures with React and Redux Toolkit, while also having solid experience with backend technologies like .NET and Node.js.
 
 My approach combines clean code principles, modern design patterns, and a strong focus on user experience. I enjoy solving complex technical challenges and turning them into elegant, maintainable solutions.
 
