@@ -185,8 +185,6 @@ const handleFilterClick = () => {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Atayrell&show_icons=true&theme=dark&count_private=true" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atayrell&layout=compact&theme=dark" />
 </p>
 
